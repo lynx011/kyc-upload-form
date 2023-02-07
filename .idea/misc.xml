@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/kyc_test/app/src/main/res/drawable/button_bg.xml" value="0.1385" />
+        <entry key="..\:/kyc_test/app/src/main/res/drawable/camera_24.xml" value="0.1335" />
+        <entry key="..\:/kyc_test/app/src/main/res/drawable/card_bg.xml" value="0.1335" />
+        <entry key="..\:/kyc_test/app/src/main/res/drawable/close_24.xml" value="0.1385" />
+        <entry key="..\:/kyc_test/app/src/main/res/drawable/gallery.xml" value="0.1385" />
+        <entry key="..\:/kyc_test/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/kyc_test/app/src/main/res/layout/fragment_blank.xml" value="0.20416666666666666" />
+        <entry key="..\:/kyc_test/app/src/main/res/layout/fragment_camera.xml" value="0.20416666666666666" />
+        <entry key="..\:/kyc_test/app/src/main/res/layout/fragment_confirm.xml" value="0.15527950310559005" />
+        <entry key="..\:/kyc_test/app/src/main/res/layout/fragment_dialog_box.xml" value="0.25" />
+        <entry key="..\:/kyc_test/app/src/main/res/layout/fragment_upload.rng" value="0.20416666666666666" />
+        <entry key="..\:/kyc_test/app/src/main/res/layout/fragment_upload.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

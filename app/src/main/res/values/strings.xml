@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">kyc_test</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="upload_document">Upload Document</string>
+    <string name="reminder_text">You can upload your signature and other additional documents.</string>
+</resources>
